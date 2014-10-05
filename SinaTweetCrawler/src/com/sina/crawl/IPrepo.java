@@ -1,4 +1,4 @@
-package com.tweet163.crawl;
+package com.sina.crawl;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
